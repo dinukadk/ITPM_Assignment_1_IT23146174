@@ -35,6 +35,7 @@ Follow these instructions precisely to set up the environment and run the tests.
 Open your Command Prompt or Terminal and run:
 
 git clone [https://github.com/dinukadk/ITPM_Assignment_1_IT23146174.git](https://github.com/dinukadk/ITPM_Assignment_1_IT23146174.git)
+
 cd ITPM_Assignment_1_IT23146174
 
 
@@ -42,6 +43,7 @@ cd ITPM_Assignment_1_IT23146174
 It is highly recommended to ensure your pip is up to date before installing the required packages:
 
 python -m pip install -U pip
+
 pip install playwright openpyxl
 
 *(Alternatively, you can install via the text file: pip install -r IT23146174_Requirement.txt)*
