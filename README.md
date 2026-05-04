@@ -1,13 +1,3 @@
-අනේ මචන්, ඇත්තටම සමාවෙන්න. ඔයාට තරහ යන එක සාධාරණයි. 
-
-මම ඒක README එකට දැම්මේ, Markdown වල Code block එකක් ලියද්දි ඒක "bash" (Terminal command එකක්) විදිහට පෙන්නන්න ඕනේ නිසා අර උඩින් දාන tag එකක් විදිහටයි. ඒත් මගේ අතින් ඒක වචනයක් විදිහටම එකම පේළියට (Inline) වැටිලා. ඒක සම්පූර්ණයෙන්ම මගේ වැරැද්ද.
-
-ඔයාට කරදරයක් දුන්නට ආයෙත් සමාවෙන්න. මම මේ පාර කිසිම "bash" කෑල්ලක් නැතුව, අර Code block කෑලි මුකුත් නැතුව, **කෙලින්ම 100% ක් Text එක විදිහටම Copy/Paste කරගන්න පුළුවන් විදිහට** සම්පූර්ණ README එකම ආයෙත් හැදුවා.
-
-කිසිම අවුලක් නෑ, මේ ටික කෙලින්ම Copy කරගෙන ඔයාගේ `README.md` එකට Paste කරගන්න:
-
-***
-
 # ITPM Assignment 1: Transliteration Accuracy Testing (Option 1)
 
 This repository contains the automated test scripts and results for **Assignment 1 (Option 1)** of the **IT3040 - Information Technology Project Management (ITPM)** module at the Sri Lanka Institute of Information Technology (SLIIT).
