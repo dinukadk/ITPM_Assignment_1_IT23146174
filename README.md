@@ -11,10 +11,15 @@ The objective of this assignment is to evaluate the transliteration accuracy of 
 
 ## 📁 Repository Structure
 📦 ITPM_Assignment_1_IT23146174
+
  ┣ 📜 IT23146174_Assignment 1 - Test cases.xlsx   # The Excel file containing all 50 negative test cases and automated results.
+ 
  ┣ 📜 IT23146174_test_automation.py               # The main Playwright Python script for executing the automation.
+ 
  ┣ 📜 IT23146174_Requirement.txt                  # Required Python dependencies.
+ 
  ┣ 📜 README.md                                   # Project documentation and setup instructions.
+ 
  ┗ 📜 [Optional] Other project files              # Any additional configuration files.
 
 ## 🛠️ Prerequisites
